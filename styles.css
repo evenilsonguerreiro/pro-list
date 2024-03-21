@@ -81,6 +81,10 @@ img{
     padding: 0 10px;
     border-radius: 10px;
 }
+.done{
+    background-color: #2ecc71;
+    text-decoration: line-through;
+}
 
 @media (max-width:768px){
     .container{
